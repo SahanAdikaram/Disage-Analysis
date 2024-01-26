@@ -7,4 +7,5 @@
 
 <b>>>This is the home page of the "Disage Analysis" when you select a disease (In this case - Ankylosis of the elbow joint)</b>
 ![2024-01-26 (3)](https://github.com/SahanAdikaram/Disage-Analysis/assets/116548418/1b2432c6-d371-4189-9227-f613b0afcedc)
+When you scroll down a bit,
 ![2024-01-26 (4)](https://github.com/SahanAdikaram/Disage-Analysis/assets/116548418/199b1e36-6cc1-4ee0-a603-d6427d29cc9b)
