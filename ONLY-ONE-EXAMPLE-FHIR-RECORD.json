@@ -1,0 +1,18 @@
+{/*
+    "resourceType": "Condition",
+    "id": "84C3521C-38DF-4B12-8A10-1D78D330919A-PROB",
+    "meta": {
+      "extension": [
+        {
+          "url": "http://hapifhir.io/fhir/StructureDefinition/resource-meta-source",
+          "valueUri": "#xkANWvy6UrFsRLaD"
+        }
+      ],
+      "versionId": "9",
+      "lastUpdated": "2023-12-06T11:35:10.521+00:00",
+      "profile": [
+        "https://fhir.nhs.uk/STU3/StructureDefinition/CareConnect-GPC-ProblemHeader-Condition-1"
+      ]
+    },/*
+  }
+  
